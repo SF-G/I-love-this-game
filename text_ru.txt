@@ -1,0 +1,64 @@
+{
+    "items" : [
+        {
+            "key" : "menuPlay",
+            "value" : "Играть!"
+        },
+        {
+            "key" : "menuSettings",
+            "value" : "Настройки"
+        },
+        {
+            "key" : "menuCredits",
+            "value" : "Авторы"
+        },
+        {
+            "key" : "menuStats",
+            "value" : "Статистика"
+        },
+        {
+            "key" : "menuQuit",
+            "value" : "Выйти"
+        },
+        {
+            "key" : "buttonApply",
+            "value" : "Применить"
+        },
+        {
+            "key" : "deleteProgress",
+            "value" : "Удалить прогресс"
+        },
+        {
+            "key" : "music",
+            "value" : "Музыка:"
+        },
+        {
+            "key" : "sound",
+            "value" : "Звук:"
+        },
+        {
+            "key" : "backButton",
+            "value" : "Назад"
+        },
+        {
+            "key" : "creditsContent",
+            "value" : "Игра от: Илья Коваль\nОригинальная игра от: Pixel Error\nМузыка от: HateBit"
+        },
+        {
+            "key" : "deleteProgressAlert",
+            "value" : "Ты уверен что хочешь удалить весь свой прогресс?"
+        },
+        {
+            "key" : "yes",
+            "value" : "Да"
+        },
+        {
+            "key" : "no",
+            "value" : "Нет"
+        },
+        {
+            "key" : "",
+            "value" : ""
+        }
+    ]
+}
