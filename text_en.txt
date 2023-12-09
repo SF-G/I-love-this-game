@@ -1,192 +1,60 @@
 {
     "items" : [
         {
-            "key" : "TEST_KEY",
-            "value" : "A simple test key (first)"
+            "key" : "menuPlay",
+            "value" : "Play!"
         },
         {
-            "key" : "TEST_KEY2",
-            "value" : "A Simple test key (Second)"
+            "key" : "menuSettings",
+            "value" : "Settings"
         },
         {
-            "key" : "",
-            "value" : ""
+            "key" : "menuCredits",
+            "value" : "Credits"
         },
         {
-            "key" : "",
-            "value" : ""
+            "key" : "menuStats",
+            "value" : "Stats"
         },
         {
-            "key" : "",
-            "value" : ""
+            "key" : "menuQuit",
+            "value" : "Quit"
         },
         {
-            "key" : "",
-            "value" : ""
+            "key" : "buttonApply",
+            "value" : "Apply"
         },
         {
-            "key" : "",
-            "value" : ""
+            "key" : "deleteProgress",
+            "value" : "Delete progress"
         },
         {
-            "key" : "",
-            "value" : ""
+            "key" : "music",
+            "value" : "Music:"
         },
         {
-            "key" : "",
-            "value" : ""
+            "key" : "sound",
+            "value" : "Sound:"
         },
         {
-            "key" : "",
-            "value" : ""
+            "key" : "backButton",
+            "value" : "Back"
         },
         {
-            "key" : "",
-            "value" : ""
+            "key" : "creditsContent",
+            "value" : "Game by Ilya Koval\nOriginal game by Pixel Error\nSoundtrack by HateBit"
         },
         {
-            "key" : "",
-            "value" : ""
+            "key" : "deleteProgressAlert",
+            "value" : "Are you sure you want to delete your progress?"
         },
         {
-            "key" : "",
-            "value" : ""
+            "key" : "yes",
+            "value" : "Yes"
         },
         {
-            "key" : "",
-            "value" : ""
-        },
-        {
-            "key" : "",
-            "value" : ""
-        },
-        {
-            "key" : "",
-            "value" : ""
-        },
-        {
-            "key" : "",
-            "value" : ""
-        },
-        {
-            "key" : "",
-            "value" : ""
-        },
-        {
-            "key" : "",
-            "value" : ""
-        },
-        {
-            "key" : "",
-            "value" : ""
-        },
-        {
-            "key" : "",
-            "value" : ""
-        },
-        {
-            "key" : "",
-            "value" : ""
-        },
-        {
-            "key" : "",
-            "value" : ""
-        },
-        {
-            "key" : "",
-            "value" : ""
-        },
-        {
-            "key" : "",
-            "value" : ""
-        },
-        {
-            "key" : "",
-            "value" : ""
-        },
-        {
-            "key" : "",
-            "value" : ""
-        },
-        {
-            "key" : "",
-            "value" : ""
-        },
-        {
-            "key" : "",
-            "value" : ""
-        },
-        {
-            "key" : "",
-            "value" : ""
-        },
-        {
-            "key" : "",
-            "value" : ""
-        },
-        {
-            "key" : "",
-            "value" : ""
-        },
-        {
-            "key" : "",
-            "value" : ""
-        },
-        {
-            "key" : "",
-            "value" : ""
-        },
-        {
-            "key" : "",
-            "value" : ""
-        },
-        {
-            "key" : "",
-            "value" : ""
-        },
-        {
-            "key" : "",
-            "value" : ""
-        },
-        {
-            "key" : "",
-            "value" : ""
-        },
-        {
-            "key" : "",
-            "value" : ""
-        },
-        {
-            "key" : "",
-            "value" : ""
-        },
-        {
-            "key" : "",
-            "value" : ""
-        },
-        {
-            "key" : "",
-            "value" : ""
-        },
-        {
-            "key" : "",
-            "value" : ""
-        },
-        {
-            "key" : "",
-            "value" : ""
-        },
-        {
-            "key" : "",
-            "value" : ""
-        },
-        {
-            "key" : "",
-            "value" : ""
-        },
-        {
-            "key" : "",
-            "value" : ""
+            "key" : "no",
+            "value" : "No"
         },
         {
             "key" : "",
